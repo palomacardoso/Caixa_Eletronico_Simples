@@ -1,0 +1,18 @@
+c:\users\pallo\documents\visual studio 2017\Projects\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\bin\Debug\CAIXAELETRÔNICO Paloma.exe.config
+c:\users\pallo\documents\visual studio 2017\Projects\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\bin\Debug\CAIXAELETRÔNICO Paloma.exe
+c:\users\pallo\documents\visual studio 2017\Projects\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\bin\Debug\CAIXAELETRÔNICO Paloma.pdb
+c:\users\pallo\documents\visual studio 2017\Projects\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO Paloma.csprojResolveAssemblyReference.cache
+c:\users\pallo\documents\visual studio 2017\Projects\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO_Paloma.Form1.resources
+c:\users\pallo\documents\visual studio 2017\Projects\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO_Paloma.Properties.Resources.resources
+c:\users\pallo\documents\visual studio 2017\Projects\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO Paloma.csproj.GenerateResource.Cache
+c:\users\pallo\documents\visual studio 2017\Projects\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO Paloma.exe
+c:\users\pallo\documents\visual studio 2017\Projects\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO Paloma.pdb
+F:\Faculdade\2 SEM - ADS\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\bin\Debug\CAIXAELETRÔNICO Paloma.exe.config
+F:\Faculdade\2 SEM - ADS\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO Paloma.exe
+F:\Faculdade\2 SEM - ADS\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO Paloma.pdb
+F:\Faculdade\2 SEM - ADS\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\bin\Debug\CAIXAELETRÔNICO Paloma.exe
+F:\Faculdade\2 SEM - ADS\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\bin\Debug\CAIXAELETRÔNICO Paloma.pdb
+F:\Faculdade\2 SEM - ADS\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO Paloma.csprojResolveAssemblyReference.cache
+F:\Faculdade\2 SEM - ADS\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO_Paloma.Form1.resources
+F:\Faculdade\2 SEM - ADS\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO_Paloma.Properties.Resources.resources
+F:\Faculdade\2 SEM - ADS\CAIXAELETRÔNICO Paloma\CAIXAELETRÔNICO Paloma\obj\Debug\CAIXAELETRÔNICO Paloma.csproj.GenerateResource.Cache
